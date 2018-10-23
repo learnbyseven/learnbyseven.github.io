@@ -25,7 +25,7 @@ This module introduces several tools that leverage Docker to ease application de
 
 ## Chapter 4
 **Docker APIs and configuration**  
-This module covers the configuration of the Docker daemon, especially security settings and remote access to the Docker API. A few recipes provide better insight on Linux namespaces and their use in containers. Finally, participents will know about the basics of networking.
+This module covers the configuration of the Docker daemon, especially security settings and remote access to the Docker API. A few recipes provide better insight on Linux namespaces and their use in containers. Finally, participants will know about the basics of networking.
 
 ## Chapter 5
 **Docker networking and cloud** 
@@ -52,7 +52,13 @@ Here you learn how to deploy applications using kubernetes cliet i.e. KubeCtl on
 In this module, you will learn about services and its boundries, how to expose the deployed app outside the Kubernetes cluster, how to auto scale up/down the replicas of the applitions and how to provide updates to the app.
 
 ## Chapter 5
-**Docker networking and cloud** 
+**Administer Deployments and applictions state** 
+In this chapter, you will understand how to manage a state-full application deployment using Kubernetes. 
+
+## Final Chapter
+**Securing Kubernetes cluster, Cluster Federations, Auditing and Debugging Kubernetes** 
+After completing this chapter , Participants will understand how to safe gaurd kubernetes cluster, what federation is, how to audit and debug pods and nodes in Kubernetes.  Also you will get to know the security best practices in Kubernetes.
+
  
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
