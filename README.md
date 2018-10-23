@@ -7,7 +7,7 @@
 - Group Teaching (Corporate and Non-corporate)
 - Teach in INDIA 
 
-## ```Basic Docker 2 days or 12 hours``` 
+## ```Docker & Containers 2 days or 12 hours``` 
 ### Course Outline 
 ### Prequisite 
 2 VMs, 2 GB & 2 VCPUs each (Centos/Ubuntu/RedHat Latest)
