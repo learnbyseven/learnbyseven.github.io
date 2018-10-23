@@ -1,5 +1,5 @@
 # learnbyseven.github.io
-# Course Catalog
+```Course Catalog```
 # Instructor Based and Self Paced 
 - Over the Net WEBINAR
 - ONE-ON-ONE (ONLINE) 
@@ -30,3 +30,5 @@ This module covers the configuration of the Docker daemon, especially security s
 ## Chapter 5
 **Docker networking and cloud** 
 Learn the advance networking mechanisms like overlay in Docker. Understand how to get containers’ IP addresses and how to expose a container service on a specific host port. Learn about linking containers, and how to design containers networking with real time examples. 
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
