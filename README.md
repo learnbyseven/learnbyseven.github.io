@@ -10,7 +10,7 @@
 ## ```Basic Docker 2 days or 12 hours``` 
 ### Course Outline 
 ### Prequisite 
-VM 1, 2 GB 2 VCPU
+VM 2, 2 GB 2 VCPU each 
 ## Chapter 1
 **Docker first look**
 Docker introduction to users, Docker installation, the core concepts and technology behind Docker. Learn in detail about container and various operations performed on it.
