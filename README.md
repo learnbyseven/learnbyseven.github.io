@@ -66,8 +66,8 @@ In this chapter, you will understand how to manage a state-full application depl
 After completing this chapter , Participants will understand how to safe guard kubernetes cluster, what federation is, how to audit and debug pods and nodes in Kubernetes.  Also you will get to know the security best practices in Kubernetes.
 
  
-**email @ giriraj_789@hotmail.com for commercials & schedules** 
-*** Please contact : +91 8600112154***
+**email @ dockergiri@hotmail.com for commercials & schedules** 
+*** Please contact : +91 6377858395***
 
 
 
