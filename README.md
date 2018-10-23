@@ -1,12 +1,13 @@
 # learnbyseven.github.io
 # ```Course Catalog```
 # Instructor Based and Self Paced 
+## ```Modes```
 - Over the Net WEBINAR
 - ONE-ON-ONE (ONLINE) 
 - Group Teaching (Corporate and Non-corporate)
 - Teach in INDIA 
 
-## ```Basic Docker 3 days or 12 hours``` 
+## ```Basic Docker 2 days or 12 hours``` 
 ### Course Outline 
 ### Prequisite 
 VM 1, 2 GB 2 VCPU
