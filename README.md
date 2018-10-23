@@ -5,8 +5,8 @@
 ### Course Outline 
 ### Prequisite 
 This contains the step-by-step guide for installing Docker 
-** VM 1, 2 GB 2 VCPU**
-## Chapter 1 
+VM 1, 2 GB 2 VCPU
+## Chapter 1
 **Docker first look**
 Docker introduction to users, the core concepts and technology behind Docker. Learn in detail about container and various operations performed on it.
 
