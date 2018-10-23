@@ -1,8 +1,8 @@
 # learnbyseven.github.io
 # Course Catalog
-# Self Paced and Instructor Based
-- Over the Net GOTOWABINAR
-- ONEONONE (ONLINE) 
+# Instructor Based and Self Paced 
+- Over the Net WEBINAR
+- ONE-ON-ONE (ONLINE) 
 - Group Teaching (Corporate and Non-corporate)
 - Teach in INDIA 
 
