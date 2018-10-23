@@ -1,4 +1,5 @@
-# learnbyseven.github.io
+# Trained on right time and leap at the chance 
+By LEARNBYSEVEN
 # ```Course Catalog```
 # Instructor Based and Self Paced 
 ## ```Modes```
@@ -58,6 +59,9 @@ In this chapter, you will understand how to manage a state-full application depl
 ## Final Chapter
 **Securing Kubernetes cluster, Cluster Federations, Auditing and Debugging Kubernetes** 
 After completing this chapter , Participants will understand how to safe guard kubernetes cluster, what federation is, how to audit and debug pods and nodes in Kubernetes.  Also you will get to know the security best practices in Kubernetes.
+
+### COMING UPs
+
 
  
 
