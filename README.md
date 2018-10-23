@@ -1,4 +1,4 @@
-# Trained on right time and leap at the chance 
+# Trained on right time and leap at the chance !!!
 LEARNBYSEVEN
 
 ## Designed For Industry by Industry
