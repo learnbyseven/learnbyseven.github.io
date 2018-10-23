@@ -1,5 +1,6 @@
 # Trained on right time and leap at the chance 
-By LEARNBYSEVEN
+LEARNBYSEVEN
+## Designed For Industry by Industry
 # ```Course Catalog```
 # Instructor Based and Self Paced 
 ## ```Modes```
