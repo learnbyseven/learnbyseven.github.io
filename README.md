@@ -1,5 +1,5 @@
 # learnbyseven.github.io
-```#Course Catalog```
+# ```Course Catalog```
 # Instructor Based and Self Paced 
 - Over the Net WEBINAR
 - ONE-ON-ONE (ONLINE) 
