@@ -52,7 +52,7 @@ This module helps in understanding the various components that form a Kubernetes
 
 ## Chapter 3
 **Port and Deploy application workloads on Kubernetes Cluster** 
-Here you learn how to deploy applications using kubernetes cliet i.e. KubeCtl on Kubernetes cluster and concept of pods (unit of apliation deployment in kubernetes) and other important components which make kubernetes as a de-facto standard of IT industry today.
+Here you learn how to deploy applications using kubernetes client i.e. KubeCtl on Kubernetes cluster and concept of pods (unit of apliation deployment in kubernetes) and other important components which make kubernetes as a de-facto standard of IT industry today.
 ## Chapter 4
 **Scale and Manage Contenerised Applicationa and various deployment strategies within Kubernetes Ecosystem**  
 In this module, you will learn about services and its boundries, how to expose the deployed app outside the Kubernetes cluster, how to auto scale up/down the replicas of the applitions and how to provide updates to the app.
