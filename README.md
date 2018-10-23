@@ -2,7 +2,7 @@
 LEARNBYSEVEN
 ## Designed For Industry by Industry
 ## About Instructor 
-```Learnbyseven (Raj Singh) is a real timer, an Opensource advocate, Working with multiple sectors including Services , Banking & Finance , Data Centers , Products.. etc from past 11 years. Expensively working on container and devops technologies, Imparting knowledge and Helping organisations in designing and adopting enterprise container technology backed by battle tested solutions like kubernetes, Redhat Openshift and Docker. Consulting for High end implementation of CAAS Container AS-A Service on public, private & hybrid cloud environments along with Expertise advisory for Kubernetes & Docker Adoptions. Associated with multiple training and education systems and trained almost 500 students over the period of 5 years.```
+***Learnbyseven (Raj Singh)*** is a real timer, an Opensource advocate, Working with multiple sectors including Services , Banking & Finance , Data Centers , Products.. etc from past 11 years. Expensively working on container and devops technologies, Imparting knowledge and Helping organisations in designing and adopting enterprise container technology backed by battle tested solutions like kubernetes, Redhat Openshift and Docker. Consulting for High end implementation of CAAS Container AS-A Service on public, private & hybrid cloud environments along with Expertise advisory for Kubernetes & Docker Adoptions. Associated with multiple training and education systems and trained almost 500 students over the period of 5 years.
 # ```Course Catalog```
 # Instructor Based and Self Paced 
 ## ```Modes```
@@ -64,6 +64,8 @@ In this chapter, you will understand how to manage a state-full application depl
 After completing this chapter , Participants will understand how to safe guard kubernetes cluster, what federation is, how to audit and debug pods and nodes in Kubernetes.  Also you will get to know the security best practices in Kubernetes.
 
  
+email @ giriraj_789@hotmail.com for commercials & schedules 
+
 
 
 
