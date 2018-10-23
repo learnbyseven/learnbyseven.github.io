@@ -1,5 +1,10 @@
 # learnbyseven.github.io
-# Course Catalog 
+# Course Catalog
+# Self Paced and Instructor Based
+- Over the Net GOTOWABINAR
+- ONEONONE (ONLINE) 
+- Group Teaching (Corporate and Non-corporate)
+- Teach in INDIA 
 
 ### Basic Docker 3 days or 12 hours 
 ### Course Outline 
