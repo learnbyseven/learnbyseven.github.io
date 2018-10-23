@@ -6,7 +6,7 @@
 - Group Teaching (Corporate and Non-corporate)
 - Teach in INDIA 
 
-### Basic Docker 3 days or 12 hours 
+## ```Basic Docker 3 days or 12 hours``` 
 ### Course Outline 
 ### Prequisite 
 This contains the step-by-step guide for installing Docker 
