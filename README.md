@@ -31,4 +31,28 @@ This module covers the configuration of the Docker daemon, especially security s
 **Docker networking and cloud** 
 Learn the advance networking mechanisms like overlay in Docker. Understand how to get containers’ IP addresses and how to expose a container service on a specific host port. Learn about linking containers, and how to design containers networking with real time examples. 
 
+
+## ```Kubernetes 3 days or 18 hours``` 
+### Course Outline 
+### Prequisite 
+2 VMs, 2 GB & 2 VCPUs each (Centos/Ubuntu/RedHat Latest)
+## Chapter 1
+**Kubernetes First Look**
+containerization above virtulization, Undestanding containers orchestrators and what Kubernetes bringing on table, How does it help in automatic deployment and management of containerized applications.
+
+## Chapter 2 
+**Kubernetes High Level Design & Architecture**
+This module helps in understanding the various components that form a Kubernetes cluster, installation of Kubernetes and to setup cluster of multinodes using Kubernetes.
+
+## Chapter 3
+**Port and Deploy application workloads on Kubernetes Cluster** 
+Here you learn how to deploy applications using kubernetes cliet i.e. KubeCtl on Kubernetes cluster and concept of pods (unit of apliation deployment in kubernetes) and other important components which make kubernetes as a de-facto standard of IT industry today.
+## Chapter 4
+**Scale and Manage Contenerised Applicationa and various deployment strategies within Kubernetes Ecosystem**  
+In this module, you will learn about services and its boundries, how to expose the deployed app outside the Kubernetes cluster, how to auto scale up/down the replicas of the applitions and how to provide updates to the app.
+
+## Chapter 5
+**Docker networking and cloud** 
+ 
+
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
