@@ -19,8 +19,8 @@ LEARNBYSEVEN
 #### Virtualization software
  - Virtual box oracle freely available 
 #### Systems
- - Minimum 1 Virtual Machine 3 VCPUs and 4 GB RAM
- - Good to Have 2 Virtual Machines , each VM, 3 VCPUs and 4 GB RAM
+ - Minimum 1 Virtual Machine, 2 VCPUs and 2 GB RAM
+ - Good to Have 2 Virtual Machines , each VM, 2 VCPUs and 2 GB RAM
 #### Opereating System
  - Ubuntu (latest) Freely Available
  - Centos 7 Freely Available
@@ -56,7 +56,7 @@ Learn the advance networking mechanisms like overlay in Docker. Understand how t
 #### Virtualization software
  - Virtual box oracle freely available 
 #### Systems
- - Minimum 1 Virtual Machine 3 VCPUs and 4 GB RAM
+ - Minimum 1 Virtual Machine, 3 VCPUs and 4 GB RAM
  - Good to Have 2 Virtual Machines , each VM, 3 VCPUs and 4 GB RAM
 #### Opereating System
  - Ubuntu (latest) Freely Available
