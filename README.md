@@ -25,7 +25,7 @@ LEARNBYSEVEN
  - Ubuntu (latest) Freely Available
  - Centos 7 Freely Available
 
-#### Softwares (Not a prequisite will be downloaded while and install during installation class) 
+#### Softwares (Not a prequisite will be downloaded and install during installation session) 
  - Docker Freely Available
 
 
@@ -62,7 +62,7 @@ Learn the advance networking mechanisms like overlay in Docker. Understand how t
  - Ubuntu (latest) Freely Available
  - Centos 7 Freely Available
 
-#### Softwares (Not a prequisite will be downloaded while and install during installation class) 
+#### Softwares (Not a prequisite will be downloaded and install during installation session) 
   - Kubernetes Freely Available
   - Docker Freely Available
 ## Chapter 1
