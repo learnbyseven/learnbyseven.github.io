@@ -16,7 +16,19 @@ LEARNBYSEVEN
 ## ```Docker & Containers 2 days or 12 hours``` 
 ### Course Outline 
 ### Prequisite 
-2 VMs, 2 GB & 2 VCPUs each (Centos/Ubuntu/RedHat Latest)
+#### Virtualization software
+ - Virtual box oracle freely available 
+#### Systems
+ - Minimum 1 Virtual Machine 3 VCPUs and 4 GB RAM
+ - Good to Have 2 Virtual Machines , each VM, 3 VCPUs and 4 GB RAM
+#### Opereating System
+ - Ubuntu (latest) Freely Available
+ - Centos 7 Freely Available
+
+#### Softwares (Not a prequisite will be downloaded while and install during installation class) 
+ - Docker Freely Available
+
+
 ## Chapter 1
 **Docker first look**
 Docker introduction to users, Docker installation, the core concepts and technology behind Docker. Learn in detail about container and various operations performed on it.
@@ -40,8 +52,19 @@ Learn the advance networking mechanisms like overlay in Docker. Understand how t
 
 ## ```Kubernetes 3 days or 18 hours``` 
 ### Course Outline 
-### Prequisite 
-2 VMs, 2 GB & 2 VCPUs each (Centos/Ubuntu/RedHat Latest)
+### Prequisite
+#### Virtualization software
+ - Virtual box oracle freely available 
+#### Systems
+ - Minimum 1 Virtual Machine 3 VCPUs and 4 GB RAM
+ - Good to Have 2 Virtual Machines , each VM, 3 VCPUs and 4 GB RAM
+#### Opereating System
+ - Ubuntu (latest) Freely Available
+ - Centos 7 Freely Available
+
+#### Softwares (Not a prequisite will be downloaded while and install during installation class) 
+  - Kubernetes Freely Available
+  - Docker Freely Available
 ## Chapter 1
 **Kubernetes First Look**
 containerization above virtulization, Undestanding containers orchestrators and what Kubernetes bringing on table, How does it help in automatic deployment and management of containerized applications.
